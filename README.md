@@ -13,4 +13,3 @@ Repositorio de prácticas para el laboratorio de Computación Gráfica
 **Grupo de Laboratorio:** 02  
 **Grupo de Teoría:** 06  
 **Semestre 2024-2**  
-**Fecha de Entrega Límite:** 24/02/2024
